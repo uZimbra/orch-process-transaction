@@ -1,0 +1,8 @@
+server:
+  port: 3333
+
+kafka:
+  host: kafka
+  port: 9092
+  process-transaction-topic: process-transaction
+  update-transaction-status-topic: update-transaction-status
